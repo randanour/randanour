@@ -7,8 +7,8 @@
     </linearGradient>
   </defs>
   <rect width="100%" height="100%" fill="url(#grad)"/>
-  <g transform="translate(60,60)" fill="#ffffff" font-family="Arial, Helvetica, sans-serif">
-    <text x="0" y="70" font-size="48" font-weight="700">مرحبا، أنا Randanour</text>
-    <text x="0" y="120" font-size="22" opacity="0.9">مطور ويب • مهتم بـ DevOps • JavaScript و Python</text>
+  <g fill="#ffffff" font-family="Arial, Helvetica, 'Noto Naskh Arabic', 'Segoe UI', sans-serif">
+    <text x="600" y="95" text-anchor="middle" font-size="48" font-weight="700">أنا في طريقي لأصبح مهندس ML</text>
+    <text x="600" y="160" text-anchor="middle" font-size="22" opacity="0.95">أتعلم: بايثون</text>
   </g>
 </svg>
