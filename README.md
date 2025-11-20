@@ -1,11 +1,14 @@
-# About Me
+# Hi, I'm Randa 👋
 
 <p align="center">
   <img src="./assets/profile-banner-pink.svg" alt="Profile banner" />
 </p>
 
-I am passionate about Data Science and Machine Learning, with a focus on building intelligent models that support data-driven decision making.
-I work on data analysis, preprocessing, and developing predictive models.
+[![Followers](https://img.shields.io/github/followers/randanour?label=Follow&style=social)](https://github.com/randanour) [![Stars](https://img.shields.io/github/stars/randanour?style=social)](https://github.com/randanour?tab=stars) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/randa-ml-a6a69b394) [![Email](https://img.shields.io/badge/Email-randaashor94@gmail.com-red?style=flat&logo=gmail)](mailto:randaashor94@gmail.com)
+
+
+## About Me
+I am passionate about Data Science and Machine Learning, with a focus on building intelligent models that support data-driven decision making. I work on data analysis, preprocessing, and developing predictive models.
 
 
 🧠 Areas of Interest
@@ -15,6 +18,7 @@ I work on data analysis, preprocessing, and developing predictive models.
 - Statistical Modeling
 - Data Preprocessing
 - Git & GitHub
+
 
 🛠️ Skills & Tools
 
@@ -31,6 +35,7 @@ Tools
 - Jupyter
 - VS Code
 
+
 📂 Featured Projects
 - 🔹 Regression predictive models
 - 🔹 Machine Learning projects (classification/regression)
@@ -38,15 +43,21 @@ Tools
 - 🔹 Scikit-Learn experiments
 - 🔹 Advanced feature engineering
 
-📊 GitHub Stats
-Randa Stats
 
-Top Langs
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=randanour&show_icons=true&theme=tokyonight" alt="Randa's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=randanour&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
 
 🔗 My Links
-💼 LinkedIn
-https://www.linkedin.com/in/randa-ml-a6a69b394
+- 💼 LinkedIn: https://www.linkedin.com/in/randa-ml-a6a69b394
+- 📁 GitHub: https://github.com/randanour
+
 
 📧 Contact
-RANDAASHOR94@gmail.com  
-https://github.com/randanour/randanour
+- Email: randaashor94@gmail.com
+
+---
+
+Thanks for visiting! ✨
