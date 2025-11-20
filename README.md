@@ -65,6 +65,7 @@ I work on data analysis, preprocessing, and developing predictive models.
 
 ### 📧 Contact  
 **randaashor94@gmail.com**
+📫  https://github.com/randanour
 
 ---
 
