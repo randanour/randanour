@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Profile banner">
+  <defs>
+    <linearGradient id="grad" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#0ea5a3"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#grad)"/>
+  <g transform="translate(60,60)" fill="#ffffff" font-family="Arial, Helvetica, sans-serif">
+    <text x="0" y="70" font-size="48" font-weight="700">مرحبا، أنا Randanour</text>
+    <text x="0" y="120" font-size="22" opacity="0.9">مطور ويب • مهتم بـ DevOps • JavaScript و Python</text>
+  </g>
+</svg>
