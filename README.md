@@ -2,6 +2,24 @@
 
 #  I'm Randa Ashor 👋
 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Profile banner">
+  <defs>
+    <linearGradient id="grad" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#0ea5a3"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#grad)"/>
+  <g fill="#ffffff" font-family="Arial, Helvetica, 'Noto Naskh Arabic', 'Segoe UI', sans-serif">
+    <text x="600" y="95" text-anchor="middle" font-size="48" font-weight="700">أنا في طريقي لأصبح مهندس ML</text>
+    <text x="600" y="160" text-anchor="middle" font-size="22" opacity="0.95">أتعلم: بايثون</text>
+  </g>
+</svg>
+
+
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:5ea3f2,100:1e3c72&height=230&section=header&text=Randa%20Ashor%20-%20AI%20&fontSize=44&fontColor=ffffff)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RANDA-ASHOR&label=Profile%20Views&color=blue&style=flat)
@@ -73,6 +91,4 @@ I work on data analysis, preprocessing, and developing predictive models.
 
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/randanour/randanour/main/assets/profile-banner.svg" alt="Profile banner" />
-</p>
+
