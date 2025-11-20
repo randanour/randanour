@@ -73,4 +73,6 @@ I work on data analysis, preprocessing, and developing predictive models.
 
 
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/randanour/randanour/main/assets/profile-banner.svg" alt="Profile banner" />
+</p>
