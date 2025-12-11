@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Randa+Ashor;Data+Scientist;ML+%26+Deep+Learning+Engineer;PyTorch+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Randa+Ashor;Computr+Science;ML+%26+Deep+Learning+Engineer;PyTorch+Developer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 <div align="center">
   
-  🎓 **Data Science & Deep Learning Specialist**
+  🎓 **Computer Science & Deep Learning Specialist**
   
   💻 Building AI Solutions with PyTorch | 🚀 Transforming Data into Intelligence | 🌟 Open Source Contributor
   
